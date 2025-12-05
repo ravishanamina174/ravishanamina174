@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hey, I'm Ravisha Abeysekara
 
-<!--
-**ravishanamina174/ravishanamina174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Undergraduate | Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+I build fast, scalable systems using React, Next.js, Express, TypeScript, MongoDB, and modern UI engineering. Focused on clean architecture, real-time features, cloud deployments, and strong developer experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working hands-on with AI systems—neural nets, RAG pipelines, LangChain, fine-tuning, and modern LLM tooling.
+
+🤖 Experimenting with multi-agent architectures to build smarter, autonomous workflows.
+
+🚀 Key Builds
+* Mebius — scalable digital shopping ecosystem with auth, payments, analytics
+* ParkNet — IoT-powered smart parking platform
+
+📡 Tech Fun Fact: In the coming years, most Software 1.0 apps will shift into Software 2.0, AI-native systems will become the new standard.
