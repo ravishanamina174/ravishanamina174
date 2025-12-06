@@ -1,4 +1,4 @@
-👋 Hey, I'm Ravisha Abeysekara
+👋 `Hey, I'm Ravisha Abeysekara`
 
 💻 Software Engineering Undergraduate | Full Stack Developer (MERN)
 
