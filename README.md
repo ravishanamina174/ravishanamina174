@@ -18,7 +18,8 @@
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=react,python,typescript,javascript,java,git,github,nodejs,expressjs,mongodb,figma&theme=light)](https://skillicons.dev)
 
-
+ ## 👀 Profile Views  
+![Views](https://komarev.com/ghpvc/?username=Ravisha-Abeysekara&style=for-the-badge&color=brightgreen) 
 
 
 
