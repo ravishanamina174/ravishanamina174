@@ -1,11 +1,11 @@
 # 👋 I'm Ravisha Abeysekara
 💻 `Full-Stack & AI Developer | MERN • React.js • AI Agents (LangChain) • LLM-Powered Apps | Software Engineering Undergraduate`
 
-I build fast, scalable systems using React, Next.js, Express, TypeScript, MongoDB, and modern UI engineering. Focused on clean architecture, real-time features, cloud deployments, and strong developer experience.
+🧞‍♂️ I build scalable systems using React, Next.js, Express, TypeScript, MongoDB, and modern UI technologies, focusing on clean architecture and good developer experience.
 
-Working hands-on with AI systems—neural nets, RAG pipelines, LangChain, fine-tuning, and modern LLM tooling.
-
-🤖 Experimenting with multi-agent architectures to build smarter, autonomous workflows.
+🤖 Working with AI systems including neural networks, RAG pipelines, LangChain, vector databases, and modern LLM tools to build practical AI-powered applications.
+ 
+ Experimenting with multi-agent architectures to build smarter, autonomous workflows.
 
 🚀 Key Builds
 * IKMS – Multi Agent RAG Chat
@@ -18,7 +18,7 @@ Working hands-on with AI systems—neural nets, RAG pipelines, LangChain, fine-t
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=react,python,typescript,javascript,java,git,github,nodejs,expressjs,mongodb,figma&theme=light)](https://skillicons.dev)
 
- 
+
 
 
 
