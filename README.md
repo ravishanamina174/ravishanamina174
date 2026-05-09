@@ -12,6 +12,7 @@
 * Lankasmartmart – Mobile App (Flutter)
 * Mebius — scalable digital shopping ecosystem with auth, payments, analytics
 * ParkNet — IoT Parking Hub
+* Pettah Transit Hub (Full Stack + AI)
 
 📡 Tech Fun Fact: In the coming years, most Software 1.0 apps will shift into Software 2.0, AI-native systems will become the new standard.
 
