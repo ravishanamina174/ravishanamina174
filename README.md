@@ -10,6 +10,7 @@
 🚀 Key Builds
 * IKMS – Multi Agent RAG Chat
 * Lankasmartmart – Mobile App (Flutter)
+* B2B Wholesale App with Atomic Inventory Synchronization (React Native)
 * Mebius — scalable digital shopping ecosystem with auth, payments, analytics
 * ParkNet — IoT Parking Hub
 * Pettah Transit Hub (Full Stack + AI)
