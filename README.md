@@ -18,7 +18,7 @@
 
 📡 Tech Fun Fact: In the coming years, most Software 1.0 apps will shift into Software 2.0, AI-native systems will become the new standard.
 
-## Skill stack
+## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=react,next,python,typescript,javascript,java,spring,docker,kubernetes,git,github,nodejs,expressjs,firebase,mongodb,postgresql,postman,figma,vite,notion&theme=light)](https://skillicons.dev)
 
  ## 👀 Profile Views  
