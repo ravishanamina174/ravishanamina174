@@ -1,4 +1,4 @@
-# 👋 I'm Ravisha Abeysekara
+# 👋🏻 I'm Ravisha Abeysekara
 💻 `Full-Stack & AI Developer | MERN • Next.js • AI Agents (LangChain) • LLM-Powered Apps | Software Engineering Undergraduate`
 
 🧞‍♂️ I build scalable systems using React, Next.js, Express, Fast API, TypeScript, and modern UI technologies, focusing on clean architecture and good developer experience.
