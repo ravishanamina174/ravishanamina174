@@ -7,15 +7,6 @@
  
  Experimenting with multi-agent architectures to build smarter, autonomous workflows.
 
-🚀 Key Builds
-* UniWork Sri Lanka – Sri Lanakn University Student's Micro Gig Marketplace (Web / Mobile)
-* IKMS – Multi Agent RAG Chat
-* Lankasmartmart – Mobile App (Flutter)
-* B2B Wholesale App with Atomic Inventory Synchronization (React Native)
-* Mebius — scalable digital shopping ecosystem with auth, payments, analytics
-* ParkNet — IoT Parking Hub
-* Pettah Transit Hub (Full Stack + AI)
-
 📡 Tech Fun Fact: In the coming years, most Software 1.0 apps will shift into Software 2.0, AI-native systems will become the new standard.
 
 ## Tech stack
