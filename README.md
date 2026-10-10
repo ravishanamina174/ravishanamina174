@@ -1,12 +1,12 @@
 # 👋🏻 Hi, I'm Ravisha Abeysekara
 💻 `AI Product Developer | LLM Powered Apps (LangChain) • Next.js | Engineering Intelligent Systems • Product Engineering | Agentic Workflows | Software Engineering Undergraduate`
 
-💡 Fueled by daily curiosity and consistency, I focus on real engineering and resilient systems—going deeper than just tying APIs together.
+☕️ Fueled by daily curiosity and consistency, I focus on real engineering and resilient systems—going deeper than just tying APIs together.
 
-🤖 Stepping beyond traditional full stack development, I architect intelligent systems powered by autonomous AI agents that collaborate in real time.
+🏁 Stepping beyond traditional full stack development, I architect intelligent systems powered by autonomous AI agents that collaborate in real time.
 
-🚀 **Some of my favorite builds**
-* **UniWork Sri Lanka** – micro-gig marketplace designed to connect university students directly with corporate clients and task posters.
+🦜 **Some of my favorite builds**
+* **UniWork Sri Lanka** – micro-gig marketplace designed to connect university students directly with corporate clients.
 * **Pettah Transit Hub** – Smart transit platform featuring real-time logistics and AI assistance
 * **IKMS** – Multi-agent RAG system for specialized knowledge retrieval
 
