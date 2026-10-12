@@ -19,11 +19,11 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
       <p align="justify">
-        <b>Hello there!</b> I'm <b>Ravisha Abeysekara,</b>, a full-cycle software engineer who owns the entire pipeline, from whiteboarding complex multi-agent architectures to shipping pixel-perfect web and mobile frontends. My playground sits at the intersection of production-grade RAG workflows, LangGraph orchestration, and high-performance full-stack systems built with modern frameworks and robust backend technologies. 🚀 For me, it is all about passion, consistency, and keeping a sharp engineering mindset that is built to evolve with the future of tech.
+        <b>Hello there!</b> I'm <b>Ravisha Abeysekara,</b>, a full-cycle software engineer who owns the entire pipeline, from whiteboarding complex multi-agent architectures to shipping pixel-perfect web and mobile frontends. My playground sits at the intersection of production-grade RAG workflows, LangGraph orchestration, and high-performance full-stack systems built with modern frameworks and robust backend technologies. <b>🚀 For me, it is all about passion, consistency, and keeping a sharp engineering mindset that is built to evolve with the future of tech.</b>
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://pub-4799464f4a674b45acf85fa27131cf7b.r2.dev/Monochrome%20Focus%20at%2017_29(1).png" width="2000" alt="Coding animation">
+      <img src="https://pub-4799464f4a674b45acf85fa27131cf7b.r2.dev/Monochrome%20Focus%20at%2017_29(1).png" width="1600" alt="Coding animation">
     </td>
   </tr>
 </table>
