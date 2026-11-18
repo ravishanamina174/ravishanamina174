@@ -6,7 +6,7 @@ I am naturally curious 🧶 about how things work and how they could work better
 🏁 Stepping beyond traditional full stack development, I architect intelligent systems powered by autonomous AI agents that collaborate in real time.
 
 🦜 **Some of my favorite builds**
-* **UniWork Sri Lanka** – Marketplace designed to connect university students directly with corporate clients.
+* **UniWorkSL** – The First Dedicated Student Task Network in Sri Lanka.
 * **Reach.online** – AI Agent API Governance Platform
 * **Pettah Transit Hub** – Smart transit platform featuring real-time logistics and AI assistance
 * **IKMS** – Multi-agent RAG system for specialized knowledge retrieval
