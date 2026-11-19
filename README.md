@@ -7,9 +7,8 @@ I am naturally curious 🧶 about how things work and how they could work better
 
 🦜 **Some of my favorite builds**
 * **UniWorkSL** – The First Dedicated Student Task Network in Sri Lanka.
-* **Reach.online** – AI Agent API Governance Platform
-* **Pettah Transit Hub** – Smart transit platform featuring real-time logistics and AI assistance
-* **IKMS** – Multi-agent RAG system for specialized knowledge retrieval
+* **Reach.online** – AI Agent API Governance Platform.
+* **MyBoss** – Multi-Tenant Business Operations Platform.
 
 If we happen to solve an interesting problem together, I would say that's a pretty good reason to grab a coffee and talk about what is next. ☕️
 
