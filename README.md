@@ -19,7 +19,7 @@ If we happen to solve an interesting problem together, I would say that's a pret
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
       <p align="justify">
-        <b>Hello there!</b> I'm <b>Ravisha Abeysekara,</b>a Software Engineering undergraduate who enjoys building software, understanding how things work, and finding better ways to solve problems. I mainly work with Java, Spring Boot, React, and modern web technologies, building backend APIs and full-stack web and mobile applications. Lately, I've been exploring AI engineering, working with LLMs, AI agents, and tools like LangChain and LangGraph to bring intelligent features into real applications.<b>🚀 For me, it is all about passion, consistency, and keeping a sharp engineering mindset that evolves with technology.</b>
+        <b>Hello there!</b> I'm <b>Ravisha Abeysekara,</b>a Software Engineering undergraduate who enjoys building software, understanding how things work, and solving problems. I mainly work with Java, Spring Boot, React, and modern web technologies, developing backend APIs and full-stack applications. Lately, I've been exploring AI engineering, working with LLMs, AI agents, LangChain, and LangGraph to bring intelligent features into real applications.<b>🚀 For me, it's all about passion, consistency, and maintaining a sharp engineering mindset that evolves with technology.</b>
       </p>
     </td>
     <td style="vertical-align: top;">
